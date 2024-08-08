@@ -37,7 +37,7 @@ I'm a passionate developer with a keen interest in modern web and mobile technol
 - **Analytics**: Google Analytics
 
 ## 🌱 Current Focus
-I'm currently diving deep into Flutter, expanding my skills in cross-platform mobile development.
+I'm currently diving deep into Frontend and AI, expanding my skills in threejs , gsap and AI agents development.
 
 ## 🎯 Goals
 I'm on the lookout for exciting collaboration opportunities, particularly in the realm of streaming technology. If you're working on a streaming guide or related project, let's connect!
